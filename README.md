@@ -101,10 +101,3 @@ I would like to thank my instructor at NED Academy for their guidance and the si
 ## **Contact**  
 - **LinkedIn:** (https://www.linkedin.com/in/anam-jafar-a18931285/)  
 - **GitHub:** (https://github.com/anamjafar6)  
-```
-
----
-
-### How to Use This Template
-1. Replace the placeholders (`yourusername`, `yourprofile`, etc.) with your actual links and information.
-2. Add more details to the **Key Insights** section after completing the project.
