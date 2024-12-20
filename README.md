@@ -54,12 +54,8 @@ and factors influencing sales performance.
 
 ### 4. **Modeling**  
 - Train a regression model to predict `Total_Sales`.  
-- Evaluate performance using metrics like RMSE.  
+- Evaluate performance using metrics like MSE, R2.  
 
-### 5. **Insights and Recommendations**  
-- Share actionable insights for business decision-making.  
-
----
 
 ## **Expected Outcomes**  
 - Visualizations showing sales trends and key performance metrics.  
@@ -86,10 +82,10 @@ and factors influencing sales performance.
 
 ---
 
-## **Key Insights (to be updated after project completion)**  
-- Insight 1:  
-- Insight 2:  
-- Insight 3:  
+## **Key Insights**  
+- Insight 1:  Discounts slightly increase sales volumes but reduce unit prices
+- Insight 2:  Beverages and Electronics are the top revenue-generating categories
+- Insight 3:  The North region contributes significantly to overall sales.
 
 ---
 
